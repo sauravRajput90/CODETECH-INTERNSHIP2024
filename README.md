@@ -18,10 +18,10 @@ Exploratory data analysis (EDA) is the forming of an initial conception and hypo
  Matplotlib: For the general creation of static, animated and interactive data graphics  
  Seaborn: To prepare the illustrations like rectangular and bar charts that are informative and aesthetically pleasing.
 ## Initial Exploration:
-Check data shape: data. shape
-View columns: data. columns
-Examine data types: data. info()
-Statistical summary: data. describe()
+Check data shape: data. shape  
+View columns: data. columns  
+Examine data types: data. info()  
+Statistical summary: data. describe()  
 Check for missing values: data The surrounding marketing environment influencing Cadbury can be broadly categorised into four marketing macro environments: 1_Customer Macromarketing Environment Cadbury’s customer macromarketing partners include the following : a_Consumers/Customer Cadbury PLC has many customers worldwide and consumers are an important aspect of Cadbury in this regard Consumers of Cadbury products are the key stakeholders and they encompass b_End-users of Cadbury products are ends users who have direct isnull(). sum()
 ## Univariate Analysis:
 Analyse individual variables by means of histograms, box plots, count plots and basic statistics.
