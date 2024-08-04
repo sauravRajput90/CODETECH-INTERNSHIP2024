@@ -34,7 +34,8 @@ There are many more subtypes of plots, for example Histograms, scatter plots, Ba
 
 
 ## Additional Considerations
-# Data Cleaning: Impute any missing values, any inconsistencies and any outliers before going to the next step of analysis.
-# Feature Engineering: It may also be necessary to create new features in case you are having difficulties making the model better.
-# Domain Knowledge: Integrate domain-specific knowledge in order to build proper understanding of the results.
-# Iterative Process: Like most analysis methodologies, EDA is also an iterative based process. You may need to go back to the earlier steps to add more information as you may discover during the process.
+ Data Cleaning: Impute any missing values, any inconsistencies and any outliers before going to the next step of analysis.
+ Feature Engineering: It may also be necessary to create new features in case you are having difficulties making the model better.
+ Domain Knowledge: Integrate domain-specific knowledge in order to build proper understanding of the results.
+ Iterative Process: Like most analysis methodologies, EDA is also an iterative based process. You may need to go back to the earlier steps to add more information as you may 
+  discover during the process.
