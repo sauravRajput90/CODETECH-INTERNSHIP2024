@@ -13,10 +13,10 @@ DURATION-AUGUST 1st, 2024 to OCTOBER 1st, 2024.
 Exploratory data analysis (EDA) is the forming of an initial conception and hypothesis regarding the data. Knowledge about the data structure and its pre-processing presupposes the basic knowledge about data characteristics, classification, peculiarities, and possible connections. It is vital for decision making in the subsequent modeling and analysis stages to be properly informed.
 
 # Key Libraries:
-# Pandas: Data manipulation and analysis is carried out using these systems.
-# NumPy: For numerical operations.
-# Matplotlib: For the general creation of static, animated and interactive data graphics.
-#Seaborn: To prepare the illustrations like rectangular and bar charts that are informative and aesthetically pleasing.
+ Pandas: Data manipulation and analysis is carried out using these systems.
+ NumPy: For numerical operations.
+ Matplotlib: For the general creation of static, animated and interactive data graphics.
+ Seaborn: To prepare the illustrations like rectangular and bar charts that are informative and aesthetically pleasing.
 # Initial Exploration:
 Check data shape: data. shape
 View columns: data. columns
