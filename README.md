@@ -5,30 +5,30 @@ Intern ID - CT12DS1998
 DURATION-AUGUST 1st, 2024 to OCTOBER 1st, 2024.
 
 
-## OVERVIEW OF THE PROJECT ##
+# OVERVIEW OF THE PROJECT #
 
-# PROJECT- EXPLORATORY DATA ANALYSIS (EDA) ON ONLINE RETAIL DATASET
+## PROJECT- EXPLORATORY DATA ANALYSIS (EDA) ON ONLINE RETAIL DATASET
 
-# OBJECTIVE
+## OBJECTIVE
 Exploratory data analysis (EDA) is the forming of an initial conception and hypothesis regarding the data. Knowledge about the data structure and its pre-processing presupposes the basic knowledge about data characteristics, classification, peculiarities, and possible connections. It is vital for decision making in the subsequent modeling and analysis stages to be properly informed.
 
-# Key Libraries:
+## Key Libraries:
  Pandas: Data manipulation and analysis is carried out using these systems.
  NumPy: For numerical operations.
  Matplotlib: For the general creation of static, animated and interactive data graphics.
  Seaborn: To prepare the illustrations like rectangular and bar charts that are informative and aesthetically pleasing.
-# Initial Exploration:
+## Initial Exploration:
 Check data shape: data. shape
 View columns: data. columns
 Examine data types: data. info()
 Statistical summary: data. describe()
 Check for missing values: data The surrounding marketing environment influencing Cadbury can be broadly categorised into four marketing macro environments: 1_Customer Macromarketing Environment Cadbury’s customer macromarketing partners include the following : a_Consumers/Customer Cadbury PLC has many customers worldwide and consumers are an important aspect of Cadbury in this regard Consumers of Cadbury products are the key stakeholders and they encompass b_End-users of Cadbury products are ends users who have direct isnull(). sum()
-# Univariate Analysis:
+## Univariate Analysis:
 Analyse individual variables by means of histograms, box plots, count plots and basic statistics.
 #Outlier Detection:
 Having done the identification of outliers, the following methods should be used; box plots, scatter plots, or z-scores.
 The case of outliers should be addressed by means of either eliminating them, limiting or transforming them.
-# Data Visualization:
+## Data Visualization:
 Develop graphs to analyze the patterns and the trends of the collected data.
 There are many more subtypes of plots, for example Histograms, scatter plots, Bar charts, Line plots, etc to analyze the data in different ways.
 
