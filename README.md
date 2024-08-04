@@ -24,7 +24,7 @@ Examine data types: data. info()
 Statistical summary: data. describe()  
 ## Univariate Analysis:
 Analyse individual variables by means of histograms, box plots, count plots and basic statistics.
-#Outlier Detection:
+# Outlier Detection:
 Having done the identification of outliers, the following methods should be used; box plots, scatter plots, or z-scores.  
 The case of outliers should be addressed by means of either eliminating them, limiting or transforming them.
 ## Data Visualization:
