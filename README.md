@@ -23,6 +23,13 @@ Check data shape: data. shape
 View columns: data. columns  
 Examine data types: data. info()  
 Statistical summary: data. describe()  
+
+## DATA FILTERATION AND CLEANING
+ Data Cleaning: Impute any missing values, any inconsistencies and any outliers before going to the next step of analysis.  
+ Feature Engineering: It may also be necessary to create new features in case you are having difficulties making the model better.  
+ Domain Knowledge: Integrate domain-specific knowledge in order to build proper understanding of the results.  
+ Iterative Process: Like most analysis methodologies, EDA is also an iterative based process. You may need to go back to the earlier steps to add more information as you may 
+  discover during the process.
 ## Univariate Analysis:
 Analyse individual variables by means of histograms, box plots, count plots and basic statistics.
 ## Outlier Detection:
@@ -33,9 +40,4 @@ Develop graphs to analyze the patterns and the trends of the collected data.
 There are many more subtypes of plots, for example Histograms, scatter plots, Bar charts, Line plots, etc to analyze the data in different ways.
 
 
-## Additional Considerations
- Data Cleaning: Impute any missing values, any inconsistencies and any outliers before going to the next step of analysis.  
- Feature Engineering: It may also be necessary to create new features in case you are having difficulties making the model better.  
- Domain Knowledge: Integrate domain-specific knowledge in order to build proper understanding of the results.  
- Iterative Process: Like most analysis methodologies, EDA is also an iterative based process. You may need to go back to the earlier steps to add more information as you may 
-  discover during the process.
+
